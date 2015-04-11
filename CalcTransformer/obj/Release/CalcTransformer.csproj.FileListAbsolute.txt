@@ -1,0 +1,8 @@
+C:\Users\qi\Desktop\src\C#\CalcTransformer\CalcTransformer\bin\Release\CalcTransformer.exe.config
+C:\Users\qi\Desktop\src\C#\CalcTransformer\CalcTransformer\bin\Release\CalcTransformer.exe
+C:\Users\qi\Desktop\src\C#\CalcTransformer\CalcTransformer\bin\Release\CalcTransformer.pdb
+C:\Users\qi\Desktop\src\C#\CalcTransformer\CalcTransformer\obj\Release\CalcTransformer.Form1.resources
+C:\Users\qi\Desktop\src\C#\CalcTransformer\CalcTransformer\obj\Release\CalcTransformer.Properties.Resources.resources
+C:\Users\qi\Desktop\src\C#\CalcTransformer\CalcTransformer\obj\Release\CalcTransformer.csproj.GenerateResource.Cache
+C:\Users\qi\Desktop\src\C#\CalcTransformer\CalcTransformer\obj\Release\CalcTransformer.exe
+C:\Users\qi\Desktop\src\C#\CalcTransformer\CalcTransformer\obj\Release\CalcTransformer.pdb
